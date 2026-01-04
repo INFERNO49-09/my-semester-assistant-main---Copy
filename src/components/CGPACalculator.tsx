@@ -25,7 +25,7 @@ interface CGPAData {
 const courseData = cgpaCourseData as CGPAData;
 
 const SEMESTER_OPTIONS = [
-  '1-1', '1-2', '2-1', '2-2', '3-1', '3-2', '4-1', '4-2', '5-1', '5-2'
+  '1-1', '1-2', '2-1', '2-2', 'PS1', '3-1', '3-2', 'ST-1', '4-1', '4-2','ST-2', '5-1', '5-2'
 ];
 
 export function CGPACalculator() {
