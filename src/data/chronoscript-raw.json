@@ -1421,7 +1421,7 @@
       "exams_iso": []
     },
     "BITS F102": {
-      "units": 0.0,
+      "units": 1.0,
       "course_name": "INNOVATION AND DESIGN\nTHINKING",
       "sections": {
         "L1": {
@@ -13526,7 +13526,7 @@
           ],
           "schedule": [
             {
-              "room": "J120",
+              "room": "F104",
               "days": [
                 "T"
               ],
