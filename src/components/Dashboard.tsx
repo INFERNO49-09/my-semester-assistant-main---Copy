@@ -40,7 +40,7 @@ const TABS: { id: TabId; label: string; icon: React.ElementType }[] = [
 ];
 
 export function Dashboard({ profile, onLogout }: DashboardProps) {
-  const [activeTab, setActiveTab] = useState<TabId>('generator');
+  const [activeTab, setActiveTab] = useState<TabId>('attendance');
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
   const renderTabContent = () => {
